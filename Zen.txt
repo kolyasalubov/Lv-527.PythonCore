@@ -8,5 +8,5 @@ Zen Python!!!
 7. Readability counts.
 8. Special cases aren't special enough to break the rules.
 10.
-11.
+11. Unless explicitly silenced.
 
