@@ -1,7 +1,7 @@
 Zen Python!!!
 1
 2
-3
+3) Simple is better than complex. 
 4
 5
 6
@@ -10,3 +10,4 @@ Zen Python!!!
 9
 10
 11
+15) Now is better than never.
