@@ -1,5 +1,5 @@
 Zen Python!!!
-1.
+1. Beautiful is better than ugly.
 2. Explicit is better than implicit.
 3. Simple is better than complex. 
 4. Complex is better than complicated.
@@ -7,6 +7,7 @@ Zen Python!!!
 6.
 7. Readability counts. by ElfMorrison
 8. Special cases aren't special enough to break the rules.
-10.
+9. Although practicality beats purity.
+10.Errors should never pass silently.
 11. Unless explicitly silenced.
 
