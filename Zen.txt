@@ -16,6 +16,6 @@ Zen Python!!!
 15. Now is better than never.
 19.Namespaces are one honking great idea -- let's do more of those!
 20. Beautiful is better than ugly.
-22. Simple is better than complex.
+22. SIMPLE is better than complex!
 
 
